@@ -1,0 +1,44 @@
+﻿{
+    "id":  "25ffe085-2ff4-4e65-8a80-07b9bcbfa693",
+    "name":  "MyApp.DK",
+    "publisher":  "Freddy Kristiansen",
+    "version":  "1.0.0.0",
+    "brief":  "",
+    "description":  "",
+    "privacyStatement":  "",
+    "EULA":  "",
+    "help":  "",
+    "url":  "",
+    "logo":  "",
+    "dependencies":  [
+        {
+            "id":  "2fa733b0-39e4-4a5d-8687-61706995d5fc",
+            "name":  "Common",
+            "publisher":  "Freddy Kristiansen",
+            "version":  "1.0.0.0"
+        },
+        {
+            "id":  "d6919308-6c4d-443e-9028-59567ed161dc",
+            "name":  "MyApp.W1",
+            "publisher":  "Freddy Kristiansen",
+            "version":  "1.0.0.0"
+        }
+    ],
+    "screenshots":  [
+
+                    ],
+    "platform":  "1.0.0.0",
+    "application":  "25.0.0.0",
+    "runtime": "14.0",
+    "idRanges":  [
+                     {
+                         "from":  61000,
+                         "to":  62000
+                     }
+                 ],
+    "resourceExposurePolicy":  {
+                                   "allowDebugging":  true,
+                                   "allowDownloadingSource":  false,
+                                   "includeSourceInSymbolFile":  false
+                               }
+}

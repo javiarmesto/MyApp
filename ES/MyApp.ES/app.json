@@ -1,0 +1,44 @@
+﻿{
+    "id":  "0feac187-c857-4326-8d40-b532d8588204",
+    "name":  "MyApp.ES",
+    "publisher":  "Freddy",
+    "version":  "1.0.0.0",
+    "brief":  "",
+    "description":  "",
+    "privacyStatement":  "",
+    "EULA":  "",
+    "help":  "",
+    "url":  "",
+    "logo":  "",
+    "dependencies":  [
+        {
+            "id":  "2fa733b0-39e4-4a5d-8687-61706995d5fc",
+            "name":  "Common",
+            "publisher":  "Freddy Kristiansen",
+            "version":  "1.0.0.0"
+        },
+        {
+            "id":  "d6919308-6c4d-443e-9028-59567ed161dc",
+            "name":  "MyApp.W1",
+            "publisher":  "Freddy Kristiansen",
+            "version":  "1.0.0.0"
+        }
+    ],
+    "screenshots":  [
+
+                    ],
+    "platform":  "1.0.0.0",
+    "application":  "25.0.0.0",
+    "runtime": "14.0",
+    "idRanges":  [
+                     {
+                         "from":  62000,
+                         "to":  63000
+                     }
+                 ],
+    "resourceExposurePolicy":  {
+                                   "allowDebugging":  true,
+                                   "allowDownloadingSource":  false,
+                                   "includeSourceInSymbolFile":  false
+                               }
+}
