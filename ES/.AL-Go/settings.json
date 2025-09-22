@@ -2,6 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/32e66d69cfd2c1e3eca39e416e27c6aa58de6df3/Actions/.Modules/settings.schema.json",
   "country": "es",
   "artifact": "///es/weekly",
+  "githubRunner": "windows-latest",
   "VersioningStrategy": 16,
-  "RepoVersion": "1.0"
+  "RepoVersion": "1.0.0"
 }

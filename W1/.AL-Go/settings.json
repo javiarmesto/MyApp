@@ -3,5 +3,5 @@
   "country": "w1",
   "artifact": "///w1/weekly",
   "VersioningStrategy": 16,
-  "RepoVersion": "1.0"
+  "RepoVersion": "1.0.0",
 }
