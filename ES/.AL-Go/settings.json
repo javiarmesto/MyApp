@@ -3,6 +3,6 @@
   "country": "es",
   "artifact": "///es/weekly",
   "githubRunner": "windows-latest",
-  "VersioningStrategy": 16,
+  
   "RepoVersion": "1.0.0"
 }
